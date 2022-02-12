@@ -1,0 +1,14 @@
+body{
+    text-align: right;
+    direction: rtl;
+    
+}
+.icon{
+    width: 70px;
+    height: 60px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
